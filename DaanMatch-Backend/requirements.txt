@@ -1,0 +1,5 @@
+pymongo
+Flask
+twilio
+googletrans
+requests
